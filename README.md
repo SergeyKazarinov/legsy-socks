@@ -27,3 +27,10 @@ npm install
 ```bash
 npm start
 ```
+
+## Stacks:
+
+- TypeScript
+- React.js
+- Redux Toolkit
+- Sass
