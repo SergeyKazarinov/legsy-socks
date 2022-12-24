@@ -1,0 +1,27 @@
+.header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+
+  
+  &__title {
+    margin: 0;
+    font-size: 23px;
+    font-weight: 400;
+  }
+
+  &__label {
+    padding: 2px;
+    width: min-content;
+    height: 20px;
+    border: 1px solid #000;
+    white-space: nowrap;
+  }
+
+  &__calendarContainer {
+    width: 300px;
+    align-items: center;
+    display: flex;
+  }
+}

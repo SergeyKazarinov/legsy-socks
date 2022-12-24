@@ -1,0 +1,21 @@
+.app {
+
+  &__label {
+
+  }
+
+  &__button {
+    padding: 0;
+    background-color: #00000000;
+    border: none;
+    width: 10px;
+    height: 10px;
+    margin-right: 2px;
+  }
+
+  &__image {
+    width: 100%;
+    height: 100%;
+    object-fit: cover; 
+  }
+}
